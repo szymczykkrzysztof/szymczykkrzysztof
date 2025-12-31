@@ -6,7 +6,7 @@ I am an experienced engineer with a unique path. I combine technical expertise i
 - 🔭 **Role:** Senior QA Automation Engineer / SDET
 - 🛠 **Specialization:** .NET, Python, Playwright, Selenium, Cypress
 - 🎖 **Background:** 9+ years in IT, former EOD Officer (Saper) bringing military discipline to code quality.
-- 🌱 **Currently focusing on:** Transitioning to .NET Backend Development (DDD, Clean Architecture).
+- 🌱 **Currently focusing on:** Senior QA Automation / SDET roles, with long-term growth towards .NET backend development.
 - ⚡ **Fun fact:** As a former Bomb Disposal Officer, I know exactly what happens when you cut the wrong wire (or deploy the wrong code).
 - 🦀 **Motto (EOD):** Initial Success or Total Failure 
 
